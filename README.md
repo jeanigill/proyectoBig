@@ -1,4 +1,4 @@
-# proyecto de Big Data
+# Proyecto de Big Data
 Este proyecto fue realizado para el modulo de Open & Big data y cuenta con dos componentes. El trabajo practico se basa en realizar un analisis de sentimiento a partir de un # lo cual el comonete numero uno, esta consituido por codigos para la extracción de los datos correspondientes. Mientras que el componente dos sería el codigo donde se realiza el analisis de los sentimientos de los twittes.
 
 # REQUISITOS
