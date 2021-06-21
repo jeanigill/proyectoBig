@@ -14,7 +14,10 @@ No se necesita instalación debido a que se utiliza en la nube, sin embargo se n
   `Python` 
   
 # PROGRAMACIÓN
-  Para la programación se utilizaron librerias como-----
+* **Analisis realizado**
+* **Librerias utilizadas**
+* **Pasos realizados**
+  
 
 # CONTENIDO DEL PROYECTO
 
