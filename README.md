@@ -15,6 +15,7 @@ No se necesita instalación debido a que se utiliza en la nube, sin embargo se n
   
 # PROGRAMACIÓN
 * **Analisis realizado**
+El analisis se re
 * **Librerias utilizadas**
 * **Pasos realizados**
   
