@@ -13,19 +13,18 @@ No se necesita instalación debido a que se utiliza la nube, sin embargo, se nec
   
   `Python` 
   
-# PROGRAMACIÓN
+# CONTENIDO DEL PROYECTO
 
 * **Componente 1**
 Extracción de tweets utilizando la API de twitter. El output de esta sección es un archivo csv con los tweets y los datos de los mismos.
 
-* **Selección de algoritmo:**
+* **Componente 2.1:**
 Para seleccionar el algoritmo a utilizar para el análisis de sentimientos se realizó primeramente una comparación utilizando dos algoritmos distintos: Vader y TextBlob.
 A criterio de las autoras, un indicador clave para seleccionar fue comparar los resultados y seleccionar el algoritmo que mostraba una mayor distribución de los sentimientos entre los tweets.
 
-* **Componente 2**
+* **Componente 2.2**
 En esta última sección se hace una limpieza de los tweets y representaciones gráficas de los resultados obtenidos con le análisis.
 
-# CONTENIDO DEL PROYECTO
 
 # AUTORES
 * **Jeanine Sánchez Gill** - *Estudiante de tercer año* 
@@ -33,8 +32,12 @@ En esta última sección se hace una limpieza de los tweets y representaciones g
 
 Estudiantes de la carrera Business Informatics en la Universidad Paraguayo Alemana.
 
+# FECHA
+*23 de Junio del 2021* 
+
+
 # CONCLUSIÓN
 Se optó por utilizar el “#BTSMeal debido al nuevo producto y la nueva campaña publicitaria realizada por mcdonalds sobre el tema. 
-La campaña publicitaria sin duda alguna tuvo una repercusión importante, y debido a la gran cantidad de tweets con ese hashtag se tuvo que limitar la cantidad de tweets a 600. Los resultados se puede ver que la campaña publicitaria tiene una gran aceptación, ya que los tweets positivos y neutros rondan el 80% de los tweets, mientras que los negativos solo alcanzan el 20%
+La campaña publicitaria sin duda alguna tuvo una repercusión importante, y debido a la gran cantidad de tweets con ese hashtag se tuvo que limitar la cantidad de tweets a 600. Los resultados se puede ver que la campaña publicitaria tiene una gran aceptación, ya que los tweets positivos y neutros rondan el 80% de los tweets, mientras que los negativos solo alcanzan el 20%.
 
 
