@@ -14,10 +14,11 @@ No se necesita instalación debido a que se utiliza en la nube, sin embargo se n
   `Python` 
   
 # PROGRAMACIÓN
-* **Analisis realizado**
-El analisis se re
-* **Librerias utilizadas**
-* **Pasos realizados**
+
+* **Componente 1**
+
+* **Componente 2**
+
   
 
 # CONTENIDO DEL PROYECTO
